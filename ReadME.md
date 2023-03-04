@@ -15,6 +15,11 @@
 
 ### Extensions to install
 
+- ### Gnome-tweaks
+```
+sudo apt install gnome-tweaks
+```
+
 
 - [**Sound Input & Output Device Chooser**](https://extensions.gnome.org/extension/906/sound-output-device-chooser)
 
@@ -78,6 +83,8 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 ```
 apt install flameshot
 ```
+> Add to start on boot
+> Settings > Keyboard > Keyboard Shortcuts > Custom Shortcut > print
 <br>
 
 ## Htop
@@ -154,5 +161,13 @@ sudo usermod -aG docker $USER
 newgrp docker
 ```
 
+## Keyboard Shortcuts
 
+> **In Settings > Keyboard > Keyboard Shortcuts > Sound and Media**
+>
+>- Volume down on Super+-
+>
+>- Volume up on Super+=
+>- Volume mute/unmute on Super+0
+>- Flameshot on PrintScreen
 

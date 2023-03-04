@@ -15,21 +15,19 @@
 
 ### Extensions to install
 
-<br>
 
 - [**Sound Input & Output Device Chooser**](https://extensions.gnome.org/extension/906/sound-output-device-chooser)
 
 
-<br>
-
 Config default:
 
-!["texto"](/img/2023-03-03_20-21.png)
+<img src="img/2023-03-03_20-21.png" width="40%" />
 
----
+
 
 - [**Extension List**](https://extensions.gnome.org/extension/3088/extension-list/)
 
+- [**Hide Top Bar**](https://extensions.gnome.org/extension/545/hide-top-bar/)
 
 
 # Apps Default
@@ -110,7 +108,6 @@ sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packag
 
 rm -f packages.microsoft.gpg
 ```
-<br>
 
 ## Terraform
 *https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli*
@@ -146,5 +143,20 @@ brew install kubectl
 ```
 ## Docker
 https://docs.docker.com/engine/install/ubuntu/
+
+```
+sudo apt install docker.io
+sudo apt install docker-compose
+
+# docker without sudo
+
+sudo groupadd docker
+sudo usermod -aG docker $USER
+
+## close terminal and reopen
+
+newgrp docker
+```
+
 
 

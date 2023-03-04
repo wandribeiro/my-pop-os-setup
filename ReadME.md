@@ -163,11 +163,21 @@ newgrp docker
 
 ## Keyboard Shortcuts
 
-> **In Settings > Keyboard > Keyboard Shortcuts > Sound and Media**
+**In Settings > Keyboard > Keyboard Shortcuts**
+
+Sound and Media
 >
->- Volume down on Super+-
+>- Volume down on **Super + -**
 >
->- Volume up on Super+=
->- Volume mute/unmute on Super+0
->- Flameshot on PrintScreen
+>- Volume up on **Super + =**
+>
+>- Volume mute/unmute on **Super + 0**
+
+Navigation
+>
+> Hide All normal Windows on **Super + D** 
+
+Custom Shortcuts
+>- Flameshot on **PrintScreen**
+>
 

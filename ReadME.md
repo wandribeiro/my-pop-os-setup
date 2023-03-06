@@ -19,6 +19,7 @@
 ```
 sudo apt install gnome-tweaks
 ```
+> Window Titlebars > Placement = left
 
 
 - [**Sound Input & Output Device Chooser**](https://extensions.gnome.org/extension/906/sound-output-device-chooser)
@@ -43,6 +44,11 @@ Config default:
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 sudo apt install .\google-chrome-stable_current_amd64.deb
+```
+## Webcamoid
+*https://webcamoid.github.io/*
+```
+sudo apt install webcamoid -y
 ```
 
 
@@ -73,9 +79,8 @@ echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/$USER/.pr
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 ```
-##
-
-<br>
+## Qbittorrent
+*https://lindevs.com/install-qbittorrent-nox-on-ubuntu*
 
 ## Flameshot
 
@@ -88,8 +93,6 @@ apt install flameshot
 <br>
 
 ## Htop
-
-
 ``` 
 sudo apt install htop 
 ``` 

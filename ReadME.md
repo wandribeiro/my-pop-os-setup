@@ -1,5 +1,7 @@
 
 
+# My Pop-Os Setup :computer:
+
 ## Verify driver NVIDIA
 
 > nvidia-smi

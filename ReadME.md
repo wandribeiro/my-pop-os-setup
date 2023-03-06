@@ -86,7 +86,8 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 ## Flameshot
 
-*https://flameshot.org/docs/installation/installation-linux/*
+*https://flameshot.org/docs/installation/installation-linux/* | tip to binding: *https://askubuntu.com/questions/1036473/how-to-change-screenshot-application-to-flameshot-on-ubuntu-18-04*
+
 ```
 apt install flameshot
 ```

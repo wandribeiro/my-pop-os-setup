@@ -150,7 +150,7 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-kubectl-bi
 ```
 brew install kubectl
 ```
-## Docker
+## Docker - NITRO5 (Required - *https://gist.github.com/kuang-da/2796a792ced96deaf466fdfb7651aa2e*)
 https://docs.docker.com/engine/install/ubuntu/
 
 ```

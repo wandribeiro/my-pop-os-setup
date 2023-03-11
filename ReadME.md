@@ -92,13 +92,15 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 ## Flameshot
 
-*https://flameshot.org/docs/installation/installation-linux/* | tip to binding: *https://askubuntu.com/questions/1036473/how-to-change-screenshot-application-to-flameshot-on-ubuntu-18-04*
+*https://flameshot.org/docs/installation/installation-linux/*
 
 ```
 apt install flameshot
 ```
 > Add to start on boot
 > Settings > Keyboard > Keyboard Shortcuts > Custom Shortcut > print
+> Command /usr/bin/flameshot gui
+
 <br>
 
 ## Htop

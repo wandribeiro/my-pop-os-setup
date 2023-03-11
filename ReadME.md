@@ -79,11 +79,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+---
 
 echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/$USER/.profile
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 ```
+> **Logout to save this installation**
+
 ## Qbittorrent
 *https://lindevs.com/install-qbittorrent-nox-on-ubuntu*
 

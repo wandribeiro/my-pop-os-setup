@@ -39,6 +39,8 @@ Config default:
 
 - [**Extension List**](https://extensions.gnome.org/extension/3088/extension-list/)
 
+- [**System Monitor**](https://extensions.gnome.org/extension/1634/resource-monitor/)
+
 - [**Hide Top Bar**](https://extensions.gnome.org/extension/545/hide-top-bar/)
 
 

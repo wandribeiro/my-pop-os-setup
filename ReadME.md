@@ -2,6 +2,10 @@
 
 # My Pop-Os Setup :computer:
 
+## Update system
+
+> sudo apt update && sudo apt full-upgrade -y
+
 ## Verify driver NVIDIA
 
 > nvidia-smi

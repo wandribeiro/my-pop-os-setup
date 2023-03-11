@@ -47,9 +47,8 @@ Config default:
 ## Google Chrome
 
 ```
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-
-sudo apt install .\google-chrome-stable_current_amd64.deb
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb &&
+sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 ## Webcamoid
 *https://webcamoid.github.io/*
@@ -61,7 +60,7 @@ sudo apt install webcamoid -y
 ## ZSH
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 ```
-apt install zsh
+sudo apt install zsh -y
 ```
 <br>
 

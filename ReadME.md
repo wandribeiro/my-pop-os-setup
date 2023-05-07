@@ -18,6 +18,20 @@
 
 </br>
 
+## WebP thumbnail support
+
+> #Add the PPA
+
+```sudo add-apt-repository ppa:krifa75/eog-ordissimo```
+ 
+> #Refresh apt
+
+```sudo apt update```
+ 
+> #Install the package
+
+```sudo apt install webp-pixbuf-loader```
+
 
 ### Extensions to install
 
